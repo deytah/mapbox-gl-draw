@@ -91,7 +91,7 @@
     "@mapbox/geojson-area": "^0.2.1",
     "@mapbox/geojson-extent": "^0.3.2",
     "@mapbox/geojson-normalize": "0.0.1",
-    "@mapbox/geojsonhint": "3.0.0",
+    "deytah/geojsonhint": "3.0.1",
     "@mapbox/point-geometry": "0.1.0",
     "eslint-plugin-import": "^2.19.1",
     "hat": "0.0.3",
